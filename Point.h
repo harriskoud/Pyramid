@@ -1,7 +1,3 @@
-//
-// Created by Charidimos Koudoumas on 27/5/20.
-//
-
 #ifndef SET1_POINT_H
 #define SET1_POINT_H
 
