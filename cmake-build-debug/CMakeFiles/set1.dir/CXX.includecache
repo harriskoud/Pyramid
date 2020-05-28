@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/charidimoskoudoumas/CLionProjects/set1/Point.h
+
+/Users/charidimoskoudoumas/CLionProjects/set1/Pyramid.h
+Point.h
+/Users/charidimoskoudoumas/CLionProjects/set1/Point.h
+math.h
+-
+iostream
+-
+
+/Users/charidimoskoudoumas/CLionProjects/set1/main.cpp
+iostream
+-
+Pyramid.h
+/Users/charidimoskoudoumas/CLionProjects/set1/Pyramid.h
+
